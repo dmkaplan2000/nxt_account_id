@@ -29,4 +29,6 @@ $ echo MYPASSPHRASE | ./remove_a_letter.awk | xargs java nxt_account_id
 'MYPASSPHRAE' 3818901984588872135
 'MYPASSPHRAS' 1896863173273059371
 
+This assumes you are using a Unix environment and have awk installed.
+
 Good luck!
